@@ -41,7 +41,6 @@ I'm a passionate and results-driven software engineer with 5+ years of experienc
 
 - 📧 Email: [hamza.tahir472@gmail.com](mailto:hamza.tahir472@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/enghamzatahir](https://linkedin.com/in/enghamzatahir)  
-- 📱 WhatsApp: [+966 58 191 4936](https://wa.me/966581914936)  
 - 🌍 Currently in Riyadh, Saudi Arabia (Transferable Iqama)  
 
 ---

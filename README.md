@@ -10,7 +10,7 @@ I'm a passionate and results-driven software engineer with 5+ years of experienc
 
 - **Languages:** JavaScript, TypeScript, Python, PHP, HTML5, CSS3
 - **Frontend:** React.js, Redux, Next.js, Tailwind CSS, Bootstrap
-- **Mobile:** React Native (iOS & Android), Expo
+- **Mobile:** React Native (iOS & Android), Expo, Flutter
 - **Backend:** Node.js, Express.js, Firebase, REST APIs
 - **Databases:** MongoDB, MySQL, PostgreSQL, Firebase Firestore
 - **Tools:** Git, GitHub, CI/CD, Postman, VS Code, Sentry

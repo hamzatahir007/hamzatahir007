@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Hamza Tahir
 
-## 🚀 Full Stack Software Engineer | Mobile App Developer | MERN & React Native Expert
+## 🚀 Full Stack Software Engineer | Mobile App Developer | MERN, React Native & Flutter Expert
 
-I'm a passionate and results-driven software engineer with 5+ years of experience in full-stack development (MERN) and cross-platform mobile application development using React Native. I specialize in building high-performance, scalable, and user-friendly applications that solve real-world problems.
+I'm a passionate and results-driven software engineer with 5+ years of experience in full-stack development (MERN) and cross-platform mobile application development using React Native and Flutter. I specialize in building high-performance, scalable, and user-friendly applications that solve real-world problems.
 
 ---
 
 ### 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python, PHP, HTML5, CSS3
+- **Languages:** JavaScript, TypeScript, Python, PHP, HTML5, CSS3, Dart
 - **Frontend:** React.js, Redux, Next.js, Tailwind CSS, Bootstrap
 - **Mobile:** React Native (iOS & Android), Expo, Flutter
 - **Backend:** Node.js, Express.js, Firebase, REST APIs
